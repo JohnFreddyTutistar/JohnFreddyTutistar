@@ -1,4 +1,4 @@
-![image](HTML5_CSS_JavaScript.png)
+![image](dev.png)
 
 # **Hi! I'm John. pleasure to meet you.** 👋
 
