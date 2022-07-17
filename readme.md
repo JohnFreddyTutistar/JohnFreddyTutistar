@@ -1,6 +1,6 @@
 ![image](fondo.png)
 
-# **Hi! I'm John. pleasure to meet you.** 👋
+<h1 align="center"><b>Hi! I'm John. pleasure to meet you. 👋</b></h1> 
 
 * I was born in the city of Pasto, Colombia on February 3, 1994, I am currently 28 years old, since I was very young I have been very curious about technology and its operation, that is why I studied Systems Engineering, I like front-end development, but Lately I'm very interested in server-side (back-end) programming. Number one fan of learning and the interaction of new technologies.
 
