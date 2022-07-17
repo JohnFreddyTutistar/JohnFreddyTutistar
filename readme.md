@@ -1,4 +1,4 @@
-![image](hero.svg)
+![image](fondo.png)
 
 # **Hi! I'm John. pleasure to meet you.** 👋
 
