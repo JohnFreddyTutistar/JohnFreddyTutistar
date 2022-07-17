@@ -6,7 +6,7 @@
 
 * Web programmer with more than 3 years of experience in frontend frameworks such as VueJs and Angular and backend development with node and php. Throughout this time I have had the privilege of knowing different programming languages ​​with which I have developed some web applications and one or another application for android devices, SCRUM being a support methodology to guarantee their quality. I seek to be part of development teams to enhance my knowledge and contribute greatly to the technology industry.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 <b>Tech Stack</b></h3>
 
 - &nbsp;Frontend:&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5)
@@ -30,4 +30,4 @@
 - &nbsp;IDE's:&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-> ### **check out my** **[portfolio](https://johntuti.netlify.app)** 👈 
+> ### check out my **[portfolio](https://johntuti.netlify.app)** 👈 
