@@ -10,12 +10,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
 ![javascript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript)
-![vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=Vue.js)
-![angular](https://img.shields.io/badge/-AngularJS-0A1A2F?style=flat&logo=AngularJS)
+![angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=Angular)
 
 - &nbsp;Backend:&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+![C#](https://img.shields.io/badge/-C#-0A1A2F?style=flat&logo=C#)
 
 - &nbsp;Database:&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
