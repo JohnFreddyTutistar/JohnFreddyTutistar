@@ -2,9 +2,7 @@
 
 <h1 align="center"><b>Hi! I'm John. pleasure to meet you. 👋</b></h1> 
 
-* I was born in the city of Pasto, Colombia on February 3, 1994, I am currently 28 years old, since I was very young I have been very curious about technology and its operation, that is why I studied Systems Engineering, I like front-end development, but Lately I'm very interested in server-side (back-end) programming. Number one fan of learning and the interaction of new technologies.
-
-* Web programmer with more than 3 years of experience in frontend frameworks such as VueJs and Angular and backend development with node and php. Throughout this time I have had the privilege of knowing different programming languages ​​with which I have developed some web applications and one or another application for android devices, SCRUM being a support methodology to guarantee their quality. I seek to be part of development teams to enhance my knowledge and contribute greatly to the technology industry.
+* I was born in the city of Pasto, Colombia on February 3, 1994, I consider myself a passionate Software Developer more than 2 years of experience creating exceptional and functional web applications. Currently I’m studying tenth semester of the System Engineer, my approach focuses on combine attractive designed with fluid functionality to provide end users with a unique unmatched experience. Also I practice Capoeira for more than 16 years.
 
 <h3> 🛠 <b>Tech Stack</b></h3>
 
