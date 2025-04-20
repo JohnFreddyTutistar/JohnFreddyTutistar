@@ -14,8 +14,8 @@
 
 - &nbsp;Backend:&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
-![C#](https://img.shields.io/badge/-C#-0A1A2F?style=flat&logo=C#)
+![C#](https://img.shields.io/badge/-.net-0A1A2F?style=flat&logo=.net)
+![NestJs](https://img.shields.io/badge/-Nestjs-0A1A2F?style=flat&logo=Nestjs)
 
 - &nbsp;Database:&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
