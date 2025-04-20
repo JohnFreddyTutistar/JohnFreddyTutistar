@@ -10,12 +10,16 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
 ![javascript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript)
+![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=flat&logo=typescript)
 ![angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=Angular)
+![sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=Sass)
+![Webpack](https://img.shields.io/badge/-Webpack-0A1A2F?style=flat&logo=Webpack)
 
 - &nbsp;Backend:&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-![C#](https://img.shields.io/badge/-.net-0A1A2F?style=flat&logo=.net)
-![NestJs](https://img.shields.io/badge/-Nestjs-0A1A2F?style=flat&logo=Nestjs)
+![C#](https://img.shields.io/badge/-.NET-0A1A2F?style=flat&logo=.NET)
+![NestJs](https://img.shields.io/badge/-NestJs-0A1A2F?style=flat&logo=NestJs)
+![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
 
 - &nbsp;Database:&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
@@ -26,6 +30,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 
 - &nbsp;IDE's:&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=CodeCrafters)
 
 > ### check out my **[portfolio](https://johntuti.netlify.app)** 👈 
