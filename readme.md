@@ -2,7 +2,9 @@
 
 <h1 align="center"><b>Hi! I'm John. pleasure to meet you. 👋</b></h1>
 
-- I was born in the city of Pasto, Colombia on February 3, 1994, I consider myself a passionate Software Developer more than 2 years of experience creating exceptional and functional web applications. I studied Systems Engineering at CESMAG University, my approach focuses on combine attractive designed with fluid functionality to provide end users with a unique unmatched experience. Also I practice Capoeira for more than 16 years.
+- I was born in the city of Pasto, Colombia on February 3, 1994, I consider myself a passionate Software Developer more than 2 years of experience creating exceptional and functional web applications. I studied Systems Engineering at CESMAG University, my approach focuses on combine attractive designed with fluid functionality to provide end users with a unique unmatched experience.
+
+- Nací en la ciudad de Pasto, Colombia el 3 de febrero de 1994, Me considero un apasionado Desarrollador de Software con más de 2 años de experiencia en la creación de aplicaciones web excepcionales y funcionales. Estudié Ingeniería de Sistemas en la Universidad CESMAG de la ciudad de Pasto. Mi enfoque se centra en conbinar un diseño atractivo con una funcionalidad fluida para proporcionar a los usuarios finales una experiencia única e inigualable. Soy amante de los deportes y artes marciales, por lo cual practico Capoeira hace más de 18 años.
 
 <h3> 🛠 <b>Tech Stack</b></h3>
 
